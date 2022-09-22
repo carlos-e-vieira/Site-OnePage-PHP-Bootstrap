@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://www.servicos.cevcode.com.br/sitemap.xml
